@@ -202,6 +202,7 @@ body {
 .main_page {
     background-color: #3f3f3f;
     min-height: 66%;
+    min-height: 66vh;
 }
 
 .main_container {
@@ -429,6 +430,8 @@ textarea {
     min-height:10%;
     max-width:90%;
     max-height:10%;
+    max-width:90vh;
+    max-height:10vh;
 }
 
 .no_login {
